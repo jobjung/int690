@@ -1,0 +1,73 @@
+<stocks>
+    <stock>
+        <category>Banking</category>
+        <company>
+            <abbreviattion>K-Bank</abbreviattion>
+            <fullname>Kasikorn Bank Co.,Ltd.</fullname>
+        </company>
+        <values>
+            <value>
+                <price>150</price>
+                <date>08/15/2019</date>
+                <time>10:10:00</time>
+                <company>zxc</company>
+            </value>
+            <value>
+                <price>151</price>
+                <date>08/15/2019</date>
+                <time>10:15:00</time>
+            </value>
+            <value>
+                <price>152</price>
+                <date>08/15/2019</date>
+                <time>13:25:00</time>
+            </value>
+            <unit>bath</unit>
+        </values>
+    </stock>
+    <stock>
+        <category ID='111'>Banking</category>
+        <company>
+            <abbreviattion>SCB</abbreviattion>
+            <fullname>Siam Commercial Bank Co.,Ltd.</fullname>
+        </company>
+        <values>
+            <value>
+                <price>140</price>
+                <date>08/15/2019</date>
+                <time>10:10:00</time>
+            </value>
+            <value>
+                <price>145</price>
+                <date>08/15/2019</date>
+                <time>10:15:00</time>
+            </value>
+            <value>
+                <price>136</price>
+                <date>08/15/2019</date>
+                <time>13:25:00</time>
+            </value>
+            <unit>bath</unit>
+        </values>
+    </stock>
+    <stock>
+        <category>Energy</category>
+        <company>
+            <abbreviattion>PTT</abbreviattion>
+            <fullname>Petrolium Thailand Bank Co.,Ltd.</fullname>
+        </company>
+        <values>
+            <value>
+                <price>43</price>
+                <date>08/11/2019</date>
+                <time>13:10:00</time>
+            </value>
+            <value>
+                <price>60</price>
+                <date>08/11/2019</date>
+                <time>13:15:00</time>
+            </value>
+            <unit>bath</unit>
+        </values>
+    </stock>
+</stocks>
