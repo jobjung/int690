@@ -1,0 +1,75 @@
+{
+  "students": [
+    {
+      "student": {
+        "id": 111,
+        "email": "abc@a.com",
+        "name": {
+          "firstname": "Tom",
+          "lastname": "Williams"
+        },
+        "address": {
+          "number": 333,
+          "street": "Prachautid",
+          "District": "Bangmod",
+          "Province": "Bangkoko",
+          "zip": 10140
+        },
+        "gpa": 3.72,
+        "education": {
+          "current": {
+            "major": "M.Sc SWE",
+            "bachelor": [
+              {
+                "major": "Com Sci",
+                "university": "Kaset"
+              },
+              {
+                "major": "Art",
+                "university": "Chula"
+              }
+            ],
+            "master": [
+              {
+                "major": "Food Sci",
+                "university": "KMUTT"
+              },
+              {
+                "major": "Energy",
+                "university": "KMUTT"
+              }
+            ]
+          }
+        }
+      },
+      "student": {
+        "id": 222,
+        "email": "hji@a.com",
+        "name": {
+          "firstname": "Ann",
+          "lastname": "Trump"
+        },
+        "address": {
+          "number": 444,
+          "street": "5th Ave.",
+          "District": null,
+          "Province": "New York",
+          "zip": 789140
+        },
+        "gpa": 3.56,
+        "education": {
+          "current": {
+            "major": "M.Sc ITW",
+            "bachelor": [
+              {
+                "major": "Geolory",
+                "university": "MIT"
+              }
+            ],
+            "master": null
+          }
+        }
+      }
+    }
+  ]
+}
