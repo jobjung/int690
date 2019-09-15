@@ -1,0 +1,19 @@
+@relation adsRevenue
+
+@attribute ads numeric
+@attribute revenue numeric
+
+@data
+
+21,8350
+180,22755
+50,13455
+195,21100
+96,15000
+44,12500
+171,20700
+135,19722
+120,16115
+75,13100
+106,15670
+198,25300
