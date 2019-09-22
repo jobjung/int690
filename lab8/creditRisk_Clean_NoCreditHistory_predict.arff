@@ -1,0 +1,19 @@
+@relation creditRisk
+
+@attribute Married {Yes, No}
+@attribute Dependents {0, 1, 2, 3}
+@attribute Education {Graduate, NotGraduate}
+@attribute Self_Employed {Yes, No} 
+@attribute ApplicantIncome numeric
+@attribute CoapplicantIncome numeric
+@attribute LoanAmount numeric
+@attribute Loan_Amount_Term numeric
+@attribute Property_Area {Rural, Urban, Semiurban}
+@attribute Loan_Status {Y, N}
+
+@data
+No,0,NotGraduate,No,3833,0,110,360,Rural,Y
+Yes,0,Graduate,No,2083,3150,128,360,Semiurban,Y
+No,0,Graduate,No,3762,1666,135,360,Rural,Y
+Yes,0,Graduate,No,6080,2569,182,360,Rural,N
+No,1,Graduate,No,3812,0,112,360,Rural,Y
